@@ -37,8 +37,8 @@ Desuden stod ordet 'odd' utrolig mange gange i teksten.
 Jeg undersøgte den binære tekst i defense.txt som dannede ordet "Penguins" altså det første ord.
 Der bemærkede jeg, at de malplacerede bogstaver havde en lige mængde af 1-tallet i strengen:
 
->Pen<mark>B</mark>gui<mark>5</mark>ns=
-10100001,11001011,11011100,<mark>10000100</mark>,11001110,11101010,11010011,<mark>01101010</mark>,11011100,11100110
+>Pen**B**gui**5**ns=
+10100001,11001011,11011100,**10000100**,11001110,11101010,11010011,**01101010**,11011100,11100110
 
 Det første mig til at at modificere scriptet til at kun skrive de bytes som havde et ulige antal 1-taller:
 ```Python
