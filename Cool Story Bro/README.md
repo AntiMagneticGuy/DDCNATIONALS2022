@@ -16,6 +16,7 @@ Her finder jeg følgende:
 Så jeg tilføjer flaget `-p`, så jeg kan se alle ændringerne.
 Der finder jeg følgende:
 ![change](./Images/change.png)
+
 Hvilket jeg prøver at køre i python, hvortil jeg så får flaget:
 `DDC{7h3b35764m3r0f4ll71m3}`
 
